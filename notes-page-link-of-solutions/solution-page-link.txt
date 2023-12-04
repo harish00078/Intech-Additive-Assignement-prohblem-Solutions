@@ -1,2 +1,2 @@
-link:(use ctrl+click) to go into this link:
+link:(use ctrl+click) to go into this link:if you open this file in the vs-code:
 https://harish007.notion.site/Intech-Additive-Assignment-Solutions-92ddd334d716403fa634d3c9b8926d74?pvs=4
